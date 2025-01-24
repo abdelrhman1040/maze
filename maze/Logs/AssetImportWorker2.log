@@ -212,3 +212,83 @@ Received Import Request.
 Start importing Assets/README.md using Guid(363709b4460c0474eb6113eea2c9d90a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4f6e595b4b969ac34a2a9c09c8852f45') in 0.0115967 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+========================================================================
+Received Import Request.
+  Time since last request: 61.857641 seconds.
+  path: Assets/New Material.mat
+  artifactKey: Guid(2c68ebf39a5d4404cabefd31e42c7fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material.mat using Guid(2c68ebf39a5d4404cabefd31e42c7fee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c85cafde7d9e00e5fac2bad30e7bd4b0') in 0.0076073 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.919891 seconds.
+  path: Assets/New Material.mat
+  artifactKey: Guid(2c68ebf39a5d4404cabefd31e42c7fee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/New Material.mat using Guid(2c68ebf39a5d4404cabefd31e42c7fee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '53e0f0c7d43d36c73802083c5b7d31d4') in 0.0165099 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.362670 seconds.
+  path: Assets/README.md
+  artifactKey: Guid(363709b4460c0474eb6113eea2c9d90a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/README.md using Guid(363709b4460c0474eb6113eea2c9d90a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1ebc83de54eaa1fe93fb57dfda45bb7e') in 0.0010618 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.550504 seconds.
+  path: Assets/DefaultVolumeProfile.asset
+  artifactKey: Guid(3d4c13846a3e9bd4c8ccfbd0657ed847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DefaultVolumeProfile.asset using Guid(3d4c13846a3e9bd4c8ccfbd0657ed847) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ee0d3b4abbffa6983d8b007cde216871') in 0.0010475 seconds
+Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.846456 seconds.
+  path: Assets/DefaultVolumeProfile.asset
+  artifactKey: Guid(3d4c13846a3e9bd4c8ccfbd0657ed847) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/DefaultVolumeProfile.asset using Guid(3d4c13846a3e9bd4c8ccfbd0657ed847) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6d96209124baf7b19862a0bb68b3c997') in 0.0139 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.306951 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(6c0f8597383b1604f88ca5b2583941ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Folder using Guid(6c0f8597383b1604f88ca5b2583941ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b4b0b61f04acf0ba1419ea34bbf3c761') in 0.0004398 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.937452 seconds.
+  path: Assets/New Folder
+  artifactKey: Guid(6c0f8597383b1604f88ca5b2583941ea) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/New Folder using Guid(6c0f8597383b1604f88ca5b2583941ea) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '90f437d8fdea198f888bf04782be9899') in 0.0092244 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.748413 seconds.
+  path: Assets/New Folder/New Material.mat
+  artifactKey: Guid(2c68ebf39a5d4404cabefd31e42c7fee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/New Folder/New Material.mat using Guid(2c68ebf39a5d4404cabefd31e42c7fee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '538fa895a364a24f96afabe737742bb9') in 0.0117248 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.740118 seconds.
+  path: Assets/DefaultVolumeProfile.asset
+  artifactKey: Guid(3d4c13846a3e9bd4c8ccfbd0657ed847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DefaultVolumeProfile.asset using Guid(3d4c13846a3e9bd4c8ccfbd0657ed847) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1cc97d7b4999a9ab4cbe9253cd3da099') in 0.0009628 seconds
+Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.916897 seconds.
+  path: Assets/DefaultVolumeProfile.asset
+  artifactKey: Guid(3d4c13846a3e9bd4c8ccfbd0657ed847) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/DefaultVolumeProfile.asset using Guid(3d4c13846a3e9bd4c8ccfbd0657ed847) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '562e8dce3a2cf219d4c8e11bc58b160a') in 0.0116917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
