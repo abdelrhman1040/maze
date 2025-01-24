@@ -292,3 +292,27 @@ Received Import Request.
 Start importing Assets/DefaultVolumeProfile.asset using Guid(3d4c13846a3e9bd4c8ccfbd0657ed847) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '562e8dce3a2cf219d4c8e11bc58b160a') in 0.0116917 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+========================================================================
+Received Import Request.
+  Time since last request: 21.366907 seconds.
+  path: Assets/DefaultVolumeProfile.asset
+  artifactKey: Guid(3d4c13846a3e9bd4c8ccfbd0657ed847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/DefaultVolumeProfile.asset using Guid(3d4c13846a3e9bd4c8ccfbd0657ed847) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e61a40d67d774878922ad44374071179') in 0.0009667 seconds
+Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.921118 seconds.
+  path: Assets/Settings/UniversalRP.asset
+  artifactKey: Guid(681886c5eb7344803b6206f758bf0b1c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/UniversalRP.asset using Guid(681886c5eb7344803b6206f758bf0b1c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '69aca496e886b186c48ea96f5b88c27d') in 0.0197851 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/README.md
+  artifactKey: Guid(363709b4460c0474eb6113eea2c9d90a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/README.md using Guid(363709b4460c0474eb6113eea2c9d90a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5fe41d73d5e3e4947a37d4e72c42bdcf') in 0.0108948 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
