@@ -396,3 +396,19 @@ Received Import Request.
 Start importing Assets/README.md using Guid(363709b4460c0474eb6113eea2c9d90a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c8c86eae380f05e058b6c4018f5002dc') in 0.0010324 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
 
+========================================================================
+Received Import Request.
+  Time since last request: 91.326994 seconds.
+  path: Assets/NewSurfaceShader.shader
+  artifactKey: Guid(626c6edd8950960438f031b507e8f33e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewSurfaceShader.shader using Guid(626c6edd8950960438f031b507e8f33e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3917880974567405261991bd21e00b0e') in 0.0042344 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.610185 seconds.
+  path: Assets/NewSurfaceShader.shader
+  artifactKey: Guid(626c6edd8950960438f031b507e8f33e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/NewSurfaceShader.shader using Guid(626c6edd8950960438f031b507e8f33e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7277754e29f05f7237c568813c35f6b5') in 0.022493 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
